@@ -11,3 +11,11 @@
     focus:outline-none focus:border-blue-500;
   }
 }
+ 
+@layer components {
+  .input {
+    @apply w-full bg-transparent border border-gray-700 rounded-md
+    px-3 py-2 text-sm text-white placeholder-gray-500
+    focus:outline-none focus:border-blue-500;
+  }
+}

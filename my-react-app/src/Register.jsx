@@ -5,7 +5,9 @@ const Register = () => {
   return (
     <div className="min-h-screen w-full flex text-white bg-[#0b1220]">
       
-      {/* LEFT SIDE – REGISTER FORM */}
+      {/* LEFT SIDE – REGISTER FORM */}  
+   Register hare 
+
       <div className="w-full md:w-1/3 bg-[#111827] p-8 flex flex-col justify-center z-10">
         
         <button className="text-sm text-gray-400 mb-6 hover:text-white">
